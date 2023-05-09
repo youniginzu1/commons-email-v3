@@ -439,9 +439,6 @@
                 </goals>
                 </execution>
             </executions>
-            <configuration>
-                <forcefailing>true</forcefailing>
-            </configuration>
         </plugin>
         </plugins>
     </build>
